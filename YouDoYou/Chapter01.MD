@@ -55,7 +55,7 @@ Pada bab 1 ini, Ko Ruby menantang konsep 10.000 jam ini, dimana seringkali orang
 
 Fokus nya adalah pada <h4>How expert do you need to be?</h4> 
 
-Ingat, ada faktor gen, talenta, dan cara lo berlatih yang akan mempengaruhi hasil. Percuma 10.000 jam bertlatih, tapi selalu mengulang kesalahan yang sama, *baperan* kalau dikasih *feedback*, dan nggak *ngulik* cara yang lebih baik.
+Ingat, ada faktor gen, talenta, dan cara lo berlatih yang akan mempengaruhi hasil. Percuma 10.000 jam berlatih, tapi selalu mengulang kesalahan yang sama, *baperan* kalau dikasih *feedback*, dan nggak *ngulik* cara yang lebih baik.
 
 ---
 
