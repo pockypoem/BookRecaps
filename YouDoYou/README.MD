@@ -11,7 +11,7 @@ Buku ini nggak kasih jawaban langsung, tapi ngebantu merefleksikan diri, melihat
 > Let's begin the journey of finding yourself
 
 # Daftar Isi
-1. [Bertemu dengan Diri Sendiri]()
+1. [Bertemu dengan Diri Sendiri](https://github.com/pockypoem/BookRecaps/blob/main/YouDoYou/Chapter01.MD)
 2. [Bertemu dengan Ikigai]()
 3. [Designing Your Life]()
 4. [Building Your New Net Worth]()
