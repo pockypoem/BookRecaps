@@ -99,3 +99,7 @@ Quotes itu dibuktikan dengan riset dari Dr. Tasha Eurich, bahwa dari 95% respond
 Carilah orang-orang yang berada di *loving-critical* (orang-orang yang selalu mendampingi lo, tapi juga nggak segan berkata jujur). *Feedback* dari *loving-critical* membantu kita menemukan jarak antara apa yang kita rasa kuasai (*perceived ability*) dan apa yang benar-benar kita kuasai (*actual ability*).
 
 > *Self-awareness* itu ibarat otot, bisa dilatih, bisa *digedein* tapi hal itu bisa tercapai kalau kita berlatih dengan *trainer* (*circle of trust*) yang tepat. 😉
+
+
+
+[<< Back to Home](https://github.com/pockypoem/BookRecaps/blob/main/YouDoYou/README.MD)

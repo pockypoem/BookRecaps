@@ -12,7 +12,7 @@ Buku ini nggak kasih jawaban langsung, tapi ngebantu merefleksikan diri, melihat
 
 # Daftar Isi
 1. [Bertemu dengan Diri Sendiri](https://github.com/pockypoem/BookRecaps/blob/main/YouDoYou/Chapter01.MD)
-2. [Bertemu dengan Ikigai]()
+2. [Bertemu dengan Ikigai](https://github.com/pockypoem/BookRecaps/blob/main/YouDoYou/Chapter02.MD)
 3. [Designing Your Life]()
 4. [Building Your New Net Worth]()
 5. [Principles]()

@@ -86,3 +86,5 @@ Cara terbaik untuk mencapai tujuan kita adalah *reverse engineer* dari mereka ya
 Mulai berjejaring dengan orang-orang yang sudah mengisi *role* serupa di LinkedIn. Ajak mereka ngobrol, *lunch*, jangan lupa untuk *stay connected*, berterima kasih pada mereka.
 
 > Temukan *skill gap*, pengetahuan, sertifikasi, dan jaringan antara posisi lo sekarang dan posisi yang lo incar. *Fill the gap and voila*, lo baru saja menambah presentase kemungkinan lo diterima di *role* yang lo idam-idamkan. Apalagi kalau lo berhasil membuat *personal branding*, kemungkinan lo diterima menjadi semakin bertambah.
+
+[<< Back to Home](https://github.com/pockypoem/BookRecaps/blob/main/YouDoYou/README.MD)
