@@ -85,3 +85,6 @@ dan yang terakhir yang berkesan bagi gue adalah
 Ingat, terkadang jarak kita ke tujuan sebenarnya nggak terlalu jauh dan nggak terlalu susah, apalagi setelah kita ukur, kita bedah baik-baik. 😉
 
 **Let's fight to reach the first 1 billion** 💪
+
+
+[<< Back to Home](https://github.com/pockypoem/BookRecaps/blob/main/YouDoYou/README.MD)
