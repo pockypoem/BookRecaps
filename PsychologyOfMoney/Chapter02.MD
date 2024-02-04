@@ -26,8 +26,12 @@ Oleh karena itu, kurangi fokus ke individu atau studi kasus tertentu, tambah fok
 ketika kita mencoba meniru keberhasilan investasi Warren Buffet itu sangat sulit karena ada peran keberuntungan yang besar. Namun ada hal yang mudah yaitu menyadari bahwa orang yang punya **kendali atas waktunya sendiri** akan lebih bahagia dalam hidup -> adalah contoh pengamatan kepada pola umum.
 
 > Keberhasilan adalah guru yang payah, membuat orang pandai berpikir dia tak bisa kalah
+
 > Kegagalan adalah guru yang payah karena membuat orang pandai berpikir keputusannya buruk, padahal kadang mereka sekadar sial
+
 -**Bill Gates**
+
+<br>
 
 Trik menghadapi kegagalan adalah dengan menata kehidupan finansial anda sehingga bila risiko atau hal buruk terjadi tak membuat Anda sampai habis.
 
