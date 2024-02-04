@@ -5,7 +5,7 @@
 # Daftar Isi
 
 0. [Pengantar](https://github.com/pockypoem/BookRecaps/blob/main/PsychologyOfMoney/00-pengantar.MD)
-1. [Tak Seorang Pun Gila]()
+1. [Tak Seorang Pun Gila](https://github.com/pockypoem/BookRecaps/blob/main/PsychologyOfMoney/Chapter01.MD)
 2. [Keberuntungan & Risiko]()
 3. [Tak Pernah Cukup]()
 4. [Penumpukan Membingungkan]()
