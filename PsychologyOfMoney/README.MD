@@ -7,7 +7,7 @@
 0. [Pengantar](https://github.com/pockypoem/BookRecaps/blob/main/PsychologyOfMoney/00-pengantar.MD)
 1. [Tak Seorang Pun Gila](https://github.com/pockypoem/BookRecaps/blob/main/PsychologyOfMoney/Chapter01.MD)
 2. [Keberuntungan & Risiko](https://github.com/pockypoem/BookRecaps/blob/main/PsychologyOfMoney/Chapter02.MD)
-3. [Tak Pernah Cukup]()
+3. [Tak Pernah Cukup](https://github.com/pockypoem/BookRecaps/blob/main/PsychologyOfMoney/Chapter03.MD)
 4. [Penumpukan Membingungkan]()
 5. [Menjadi Kaya vs Tetap Kaya]()
 6. [Anda Menang Undian]()
